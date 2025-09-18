@@ -1,16 +1,23 @@
-# flutter_application_1
+# 🎬 Aplikasi TikTok Video Downloader (Beta Version)
 
-A new Flutter project.
+Aplikasi Flutter sederhana untuk **mengunduh video TikTok tanpa watermark** langsung dari HP Android.  
+Saat ini aplikasi masih dalam tahap **Beta** dan menggunakan **API pihak ketiga (tikwm.com)** untuk mendapatkan link video.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur Utama
+- 🚀 Download video TikTok tanpa watermark.  
+- 💾 Video otomatis tersimpan ke folder `/storage/emulated/0/Video/`.  
+- 🎨 UI sederhana dan clean dengan tema **pink**.  
+- 📱 Support Android (API 21+).  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Teknologi yang Digunakan
+- [Flutter](https://flutter.dev/) (Dart)  
+- [HTTP package](https://pub.dev/packages/http) untuk request API  
+- [Permission Handler](https://pub.dev/packages/permission_handler) untuk akses storage  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📂 Struktur Project

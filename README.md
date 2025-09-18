@@ -20,4 +20,3 @@ Saat ini aplikasi masih dalam tahap **Beta** dan menggunakan **API pihak ketiga 
 
 ---
 
-## 📂 Struktur Project
